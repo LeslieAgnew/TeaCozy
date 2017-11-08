@@ -142,7 +142,16 @@ h2 {
   text-align: center;
   margin: 0px;
   padding: 10px;
-  font-size: 30px;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: Helvetica;
+  color: seashell;
+  background-color: black;
+  font-size: 28px;
+  text-align: center;
+  opacity: 0.9;
 }
 
 p {
